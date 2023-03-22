@@ -6,11 +6,11 @@
   --normal-font: 400;
   --bold-font: 700;
   --bolder-font: 900;
-  --bg-color: #fcfcfc;
-  --primary-color: #4756df;
-  --secondary-color: #ff7235;
-  --primary-shadow: #8b8eaf;
-  --secondary-shadow: #a17a69;
+  --bg-color: #C8D5DD;
+  --primary-color: #323232;
+  --secondary-color: #b6c199;
+  --primary-shadow: #c8b7a6;
+  --secondary-shadow: #c8b7a6;
   --bottom-margin: 0.5rem;
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
@@ -45,6 +45,7 @@ a:hover {
 
 body {
   font-family: var(--font-family);
+  background-color:#DDD0C8
 }
 
 section {
@@ -120,6 +121,7 @@ nav ul li {
   padding: 0.625rem;
   border-radius: 6px;
   box-shadow: 0px 2px 15px 2px var(--primary-shadow);
+  background-color: #C8D5DD;
 }
 
 .bio h1 {
@@ -134,7 +136,7 @@ nav ul li {
 
 /* More about */
 .more-about {
-  background-color: var(--bg-color);
+/*background-color: var(--bg-color); */
   padding: 1rem 6rem;
 }
 
@@ -230,6 +232,7 @@ nav ul li {
   padding: 0.938rem;
   border-radius: 5px;
   box-shadow: 0 3px 10px var(--secondary-shadow);
+  background-color: #C8D5DD;
 }
 
 .contact-form-container label {
