@@ -112,7 +112,7 @@ nav ul li {
 }
 
 .hero img {
-  border-radius: 25px;
+  border-radius: 50px;
   padding: 20px;
   width: 40%;
   height: 40%;
@@ -430,5 +430,12 @@ footer {
 
   .contact-form-container {
     max-width: 17.75rem;
+  }
+
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
   }
 }
