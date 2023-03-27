@@ -438,4 +438,9 @@ footer {
     margin-right: auto;
     width:50%
   }
+
+  .resumebuton{
+    width: 150%;
+    height: auto
+  }
 }
