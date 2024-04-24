@@ -6,11 +6,11 @@
   --normal-font: 400;
   --bold-font: 700;
   --bolder-font: 900;
-  --bg-color: #C8D5DD;
-  --primary-color: #323232;
-  --secondary-color: #b6c199;
-  --primary-shadow: #c8b7a6;
-  --secondary-shadow: #c8b7a6;
+  --bg-color: #001219;
+  --primary-color: #fb8500;
+  --secondary-color: #ca6702;
+  --primary-shadow: #3468C0;
+  --secondary-shadow: #3468C0;
   --bottom-margin: 0.5rem;
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
@@ -45,7 +45,7 @@ a:hover {
 
 body {
   font-family: var(--font-family);
-  background-color:#DDD0C8
+  background-color:var(--primary-color);
 }
 
 section {
@@ -123,7 +123,7 @@ nav ul li {
   padding: 0.625rem;
   border-radius: 6px;
   box-shadow: 0 2px 15px 2px var(--primary-shadow);
-  background-color: #C8D5DD;
+  background-color: #EEEEEE;
 }
 
 .bio h1 {
