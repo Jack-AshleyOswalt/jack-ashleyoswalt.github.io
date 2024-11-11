@@ -1,1 +1,0 @@
-# jack-ashleyoswalt.github.io
